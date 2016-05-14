@@ -1,0 +1,14 @@
+#tableOne{
+	border: 1;
+	float: left;
+	margin: 10%;
+}
+.two{
+	width: 100;
+	height: 100;
+	border: 1;
+}
+ body{
+ 	margin: 0;
+ }
+
